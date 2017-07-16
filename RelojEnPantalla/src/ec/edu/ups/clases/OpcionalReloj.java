@@ -1,0 +1,36 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package ec.edu.ups.clases;
+
+/**
+ *
+ * @author Adrian Morales jimenez
+ */
+public class OpcionalReloj {
+
+    public void reloj() {
+        int segundos = 0;
+        int minutos = 0;
+        int hora = 0;
+
+        while (segundos < 60) {
+            segundos++;
+
+            if (segundos == 60) {
+                minutos++;
+                segundos = 0;
+            }
+            if (minutos == 60) {
+                hora++;
+                minutos = 0;
+            }
+            System.out.println("La hora es :" + hora + ":" + minutos + ":" + segundos);
+
+        }
+
+    }
+
+}
