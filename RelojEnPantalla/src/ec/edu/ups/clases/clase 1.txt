@@ -1,0 +1,76 @@
+Ing Software 
+Objetivos:
+- Modelos 
+- Requerimientos
+- Arquitectura (diseño detallado)
+- Validacion/Verificacion
+- Mantenimiento
+- Construccion
+- Software / Ing Software
+
+1.-Software e Ingenieria Software
+Software
+- Programas mas documentacion mas datos
+- Lo primero que se debe entender es que el software es un sistema
+- Lo importante no es qué es el software, sino:
+   * Como se piensa sobre el (que imagen tiene)
+   * Que papel juega en un contexto mayor
+- Punto de vista de una computadora 
+   * El software es solo programas 
+   * Pensar asi genera problemas
+- Alma y cerebro de una computadora
+- Corporizacion de las funciones de un sistema
+- El conocimiento caprturado (Ing Software) acerca de una area de    aplicación 
+- El software es muchas cosas, pero todos son aspectos de la informacion
+- Nos debemos relacionar con esa informacion en la misma forma rigurosa y sistematica que lo hacemos con el software ejecutable.
+
+Ing software
+Aplicacion de enfoque sistematico, disciplinario y cuantificable para su desarrollo, operacion y mantenimiento del software; esto es la aplicacion de la ingenieria de software. 
+
+Ambientes de desarrollo:
+- Dominio 
+- Representacion
+- Conocimientos 
+
+Caracteristicas:
+Internas:
+	* Reusabilidad 
+	* Mantenibilidad
+Externas:
+	* Amistosidad
+	* Portabilidad
+
+Swebook --> Areas de conocimientos:
+	* Requerimientos
+	* Diseño
+	* Construccion
+	* Pruebas
+	* Calidad
+	* Procesos
+	* Herramientas
+Principios del codigo de etica de la ingenieria del software
+
+Sociedad: Los ingenieros de software actuaran de manera coherente con el interes general
+cliente: 
+producto: los ings. de software deberan garantizar que sus productos y las modificaciones relacionadas con ellos cumplen los estandares profesionales de mayor nivel mas que sea posible
+Juicio: los ings de software deberan mantener integridad e independencia en su valoracion profesional.
+Gestion:Los gestores y lideres en ingenieria suscribiran y promoveran un enfoque etico a la gestion del desarrollo y el mantenimiento del software.
+Profesion: Los ings de software deberan progresar en la integridad y la reputacion.
+Compañeros:
+Persona:
+
+Capitulo 2: Procesos del software
+ 	* Proceso del software
+	* Modelos del proceso de software (forma de hacer algo, abstraccion)
+	* Iteracion de procesos
+	* Actividades del proceso
+	* Metodologias para desarrollo de software
+Procesos de software:
+IEEE: "Una secuencia de pasos ejecutados para un proposito dado"
+Pfleeger: "Podemos pensar al conjunto ordenado e tareas como un proceso: una serie de pasos que involucran actividades, restricciones y recursos que producen una determinada salida esperada"
+Basili: Los procesos de ing de software son especificos 
+Importante: El proceso esta conformado por los pasos que se dan no por su descripción.
+
+dos caminos para el desarrollo del software
+
+
