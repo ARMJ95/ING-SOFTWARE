@@ -13,7 +13,7 @@ package ec.edu.ups.clases;
 public class Inicio {
     public static void main(String[] args) {
     Reloj mihilo = new Reloj("Reloj en pantalla");
-        System.out.println("Version 1.0"); //etiqueta 
+        System.out.println("Version 1.0"); //etiqueta del software
     mihilo.start(); // empieza el reloj en pantalla
 //        OpcionalReloj or = new OpcionalReloj();
 //        or.reloj();
