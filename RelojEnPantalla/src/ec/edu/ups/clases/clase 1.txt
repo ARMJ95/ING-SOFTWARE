@@ -1,8 +1,9 @@
+Nombre: Adrian Morales
 Ing Software 
 Objetivos:
 - Modelos 
 - Requerimientos
-- Arquitectura (diseño detallado)
+- Arquitectura (diseï¿½o detallado)
 - Validacion/Verificacion
 - Mantenimiento
 - Construccion
@@ -12,7 +13,7 @@ Objetivos:
 Software
 - Programas mas documentacion mas datos
 - Lo primero que se debe entender es que el software es un sistema
-- Lo importante no es qué es el software, sino:
+- Lo importante no es quï¿½ es el software, sino:
    * Como se piensa sobre el (que imagen tiene)
    * Que papel juega en un contexto mayor
 - Punto de vista de una computadora 
@@ -20,7 +21,7 @@ Software
    * Pensar asi genera problemas
 - Alma y cerebro de una computadora
 - Corporizacion de las funciones de un sistema
-- El conocimiento caprturado (Ing Software) acerca de una area de    aplicación 
+- El conocimiento caprturado (Ing Software) acerca de una area de    aplicaciï¿½n 
 - El software es muchas cosas, pero todos son aspectos de la informacion
 - Nos debemos relacionar con esa informacion en la misma forma rigurosa y sistematica que lo hacemos con el software ejecutable.
 
@@ -42,7 +43,7 @@ Externas:
 
 Swebook --> Areas de conocimientos:
 	* Requerimientos
-	* Diseño
+	* Diseï¿½o
 	* Construccion
 	* Pruebas
 	* Calidad
@@ -56,7 +57,7 @@ producto: los ings. de software deberan garantizar que sus productos y las modif
 Juicio: los ings de software deberan mantener integridad e independencia en su valoracion profesional.
 Gestion:Los gestores y lideres en ingenieria suscribiran y promoveran un enfoque etico a la gestion del desarrollo y el mantenimiento del software.
 Profesion: Los ings de software deberan progresar en la integridad y la reputacion.
-Compañeros:
+Compaï¿½eros:
 Persona:
 
 Capitulo 2: Procesos del software
@@ -69,7 +70,7 @@ Procesos de software:
 IEEE: "Una secuencia de pasos ejecutados para un proposito dado"
 Pfleeger: "Podemos pensar al conjunto ordenado e tareas como un proceso: una serie de pasos que involucran actividades, restricciones y recursos que producen una determinada salida esperada"
 Basili: Los procesos de ing de software son especificos 
-Importante: El proceso esta conformado por los pasos que se dan no por su descripción.
+Importante: El proceso esta conformado por los pasos que se dan no por su descripciï¿½n.
 
 dos caminos para el desarrollo del software
 
