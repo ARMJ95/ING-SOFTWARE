@@ -8,7 +8,7 @@ package ec.edu.ups.clases;
 
 /**
  *
- * @author H
+ * @author Ing-Software
  */
 public class Inicio {
     public static void main(String[] args) {
