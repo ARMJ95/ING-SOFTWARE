@@ -31,6 +31,8 @@ public class Panel extends javax.swing.JPanel {
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
 
+        setBackground(new java.awt.Color(0, 0, 153));
+
         jButton1.setText("Inicia Cronómetro");
 
         jTextArea1.setColumns(20);
