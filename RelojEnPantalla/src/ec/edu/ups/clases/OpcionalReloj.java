@@ -12,7 +12,7 @@ package ec.edu.ups.clases;
 public class OpcionalReloj {
 
     public void reloj() {
-        int segundo = 0;
+        int segundos = 0;
         int minutos = 0;
         int hora = 0;
 
