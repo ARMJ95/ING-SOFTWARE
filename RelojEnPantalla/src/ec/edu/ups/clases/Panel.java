@@ -8,7 +8,7 @@ package ec.edu.ups.clases;
 /**
  *
  * @author luistobarAlmache
- * @author AdrianMorales IngSoftware
+ * @author AdrianMorales 
  */
 public class Panel extends javax.swing.JPanel {
 
