@@ -27,7 +27,7 @@ public class OpcionalReloj {
                 hora++;
                 minutos = 0;
             }
-            //Modificat el syso
+            //Modificacion de la impresion en consola
             System.out.println("Cronómetro :" + hora + ":" + minutos + ":" + segundos);
 
         }
